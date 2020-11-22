@@ -54,7 +54,7 @@ Find this line and enter your postgresql dbname,user,host,password inside the si
 
 2.Under "Opening Screen(commented in code)" find the line <b>"image1=ImageTk.PhotoImage(Image.open("E:\Python project Password Manager\Image.jpg"))"</b> and replace the image path with the absolute path of the image location in your system.
   
-![First Window]()
+![First Window](Password-Manager/Reference Images/img2.png)
                               
       
       

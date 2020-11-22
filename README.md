@@ -45,8 +45,14 @@ If any error occurs in "<b>pip install psycopg2</b>" use "<b>python -m pip insta
                   |
         |---------|----------|
         |                    |
-    Passwordmanager.py       Image.jpg
-  
+    PasswordManager.py       Image.jpg
+
+# Changes to be made in code before executing:
+1.In "try" block under "db connectivity(commented in code)",enter your postgresql "dbname","user" ,"host","password"
+<b>Example:conn=psycopg2.connect("dbname='< >' user='< >' host='< >' password='< >' ")</b>
+Find this line and enter your postgresql dbname,user,host,password inside the single coats
+
+2.Under "Opening Screen(commented in code)" find the line <b>"image1=ImageTk.PhotoImage(Image.open("E:\Python project Password Manager\Image.jpg"))"</b> and replace the image path with the absolute path of the image location in your system.
   
         
                               

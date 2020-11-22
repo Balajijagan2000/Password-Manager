@@ -39,9 +39,18 @@ If any error occurs in "<b>pip install psycopg2</b>" use "<b>python -m pip insta
 9.Click next to begin PostgreSQL installation.
 
 # Setting up the application:
+       
 # Directory
-      |
-      Password Manager
+            PasswordManager
+                  |
+        |---------|----------|
+        |                    |
+    Passwordmanager.py       Image.jpg
+  
+  
+        
+                              
+      
       
 
 

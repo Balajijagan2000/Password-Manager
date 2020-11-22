@@ -41,7 +41,7 @@ If any error occurs in "<b>pip install psycopg2</b>" use "<b>python -m pip insta
 # Setting up the application:
        
 # Directory
-            PasswordManager
+            PasswordManager(Mainfolder)
                   |
         |---------|----------|
         |                    |

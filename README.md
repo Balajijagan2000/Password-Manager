@@ -58,8 +58,8 @@ Find this line and enter your postgresql dbname,user,host,password inside the si
   
 
  ![First Window 1](https://raw.githubusercontent.com/Balajijagan2000/Password-Manager/main/Reference%20Images/img5.PNG))
-https://github.com/Balajijagan2000/Password-Manager/blob/main/Demo.mp4
 
+# Click the below image for the demo:
 
 [![Watch the demo video ](https://raw.githubusercontent.com/Balajijagan2000/Password-Manager/main/Reference%20Images/img2.PNG)](https://youtu.be/cgkIS6M4wtU)
                               

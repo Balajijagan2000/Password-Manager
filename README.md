@@ -1,5 +1,4 @@
-# Password-Manager
-Password Manager is one of the commonly used applications worldwide. It simply stores username,passwords etc., of other applications.The stored details can be accessed anytime. It is difficult to memorize  username and passwords for all apps, so password manager comes into play.With use of password manager we no need to memorize username and passwords of other apps.
+
 # Python Module Installation:
 1.Installing psycopg2:Open CMD as admin and type the following:pip install psycopg2 
 

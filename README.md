@@ -63,7 +63,7 @@ Find this line and enter your postgresql dbname,user,host,password inside the si
 
 [![Watch the demo video ](https://raw.githubusercontent.com/Balajijagan2000/Password-Manager/main/Reference%20Images/img2.PNG)](https://youtu.be/cgkIS6M4wtU)
                               
-<video controls="controls" width=350px height=350px><source src="https://youtu.be/cgkIS6M4wtU" type="video/mp4"/></video>                      
+<video controls="controls"><source src="https://youtu.be/cgkIS6M4wtU" type="video/mp4"/></video>                      
       
 
 

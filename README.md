@@ -1,5 +1,7 @@
 
 # Python Module Installation:
+
+# Prerequisite-Python
 1.Installing psycopg2:Open CMD as admin and type the following:pip install psycopg2 
 
 If any error occurs in "<b>pip install psycopg2</b>" use "<b>python -m pip install psycopg2"</b>
